@@ -1,7 +1,7 @@
 {
     "inputs": [
-        "This is a text",
-        "This is another text",
-        "And yet another text"
+        "Esta es una frase de ejemplo",
+        "Cada frase tiene su vector",
+        "El modelo se encarga de todo"
     ]
 }
