@@ -1,0 +1,14 @@
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "Eres un asistente de consultas por chat."
+        },
+        {
+            "role": "user",
+            "content": "Hola, ¿qué puedes hacer por mí?"
+        }
+    ],
+    "temperature": 0.5,
+    "max_tokens": 1024
+}
