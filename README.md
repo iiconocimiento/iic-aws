@@ -21,6 +21,6 @@ It uses NLP advanced analysis to automatically spot linguistic aspects to be imp
 
 ### LUCES - Language Understanding and Clarity Evaluation for Spanish
 
-LUCES is a clear communication analyzer for Spanish texts. With three global indexes and thirteen subindexes, it evaluates text linguistic features and allows to easily detect readability improvement areas. 
+LUCES is a clear communication analyzer for Spanish texts. With three global indexes and thirteen subindexes, it evaluates text linguistic features and allows to easily detect clarity improvement areas. 
 
 It uses NLP advanced analysis to automatically spot linguistic aspects to be improved for the sake of information transparency. LUCES can be used as a text writing assistant and as a text clarity evaluator, maximizing content understandability in both cases. 
