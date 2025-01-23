@@ -18,3 +18,9 @@ This model has no specific use case and can be applied to a wide range of tasks.
 ERAS is an easy reading analyzer for Spanish texts. With four global indexes and thirty subindexes, it evaluates text linguistic features and allows to easily detect readability improvement areas. 
 
 It uses NLP advanced analysis to automatically spot linguistic aspects to be improved for the sake of information accessibility. ERAS can be used as an easy reading text writing assistant, reducing easy reading adaptation time and as an easy reading texts quality evaluator.
+
+### LUCES - Language Understanding and Clarity Evaluation for Spanish
+
+LUCES is a clear communication analyzer for Spanish texts. With three global indexes and thirteen subindexes, it evaluates text linguistic features and allows to easily detect clarity improvement areas. 
+
+It uses NLP advanced analysis to automatically spot linguistic aspects to be improved for the sake of information transparency. LUCES can be used as a text writing assistant and as a text clarity evaluator, maximizing content understandability in both cases. 
