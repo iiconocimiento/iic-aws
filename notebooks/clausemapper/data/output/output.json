@@ -1,0 +1,17 @@
+{
+    "statusCode": 200,
+    "tokens": [
+        {
+            "start": 213,
+            "end": 383,
+            "tag": "OBJETO",
+            "text": "EJECUCIÓN DE LAS OBRAS Y REALIZACIÓN DEL MANTENIMIENTO DEL PROYECTO CONSTRUCTIVO DEL TELEMANDO DE ENERGÍA DEL TRAMO SAMOS — CORERA. LÍNEA DE ALTA VELOCIDAD SAMOS — ANADÓN"
+        },
+        {
+            "start": 504,
+            "end": 656,
+            "tag": "OBJETO",
+            "text": "RAS Y REALIZACIÓN DEL MANTENIMIENTO DEL PROYECTO CONSTRUCTIVO DEL TELEMANDO DE ENERGÍA DEL TRAMO SAMOS — CORERA. LINEA DE ALTA VELOCIDAD SAMOS — ALMERIA"
+        }
+    ]
+}

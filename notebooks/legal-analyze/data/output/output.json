@@ -1,0 +1,77 @@
+{
+    "statusCode": 200,
+    "tokens": [
+        {
+            "start": 0,
+            "end": 7,
+            "tag": "ACTO_FORMAL",
+            "text": "ANUNCIO"
+        },
+        {
+            "start": 13,
+            "end": 39,
+            "tag": "ENTE_COMPETENCIA",
+            "text": "Servicio Aragonés de Salud"
+        },
+        {
+            "start": 54,
+            "end": 155,
+            "tag": "ACTO_SUSTANTIVO",
+            "text": "nuevo emplazamiento  de los interesados  en el recurso contencioso administrativo nº P.A. 503/2011-A1"
+        },
+        {
+            "start": 173,
+            "end": 206,
+            "tag": "DESTINATARIO",
+            "text": "doña María Luisa Castillo Aznárez"
+        },
+        {
+            "start": 297,
+            "end": 350,
+            "tag": "INSTRUMENTO_NORMATIVO",
+            "text": "artículos 48.1 y 49 de la Ley 29/1998, de 13 de julio"
+        },
+        {
+            "start": 496,
+            "end": 527,
+            "tag": "ACTO_SUSTANTIVO",
+            "text": "se emplaza de nuevo a todos los"
+        },
+        {
+            "start": 547,
+            "end": 579,
+            "tag": "INSTRUMENTO_NORMATIVO",
+            "text": "Resolución de 17 de mayo de 2011"
+        },
+        {
+            "start": 588,
+            "end": 591,
+            "tag": "ENTE_COMPETENCIA",
+            "text": "Ger"
+        },
+        {
+            "start": 1078,
+            "end": 1131,
+            "tag": "INSTRUMENTO_JUDICIAL",
+            "text": "recurso contencioso administrativo P.A. 503/2011 - A1"
+        },
+        {
+            "start": 1159,
+            "end": 1163,
+            "tag": "DESTINATARIO",
+            "text": "Luis"
+        },
+        {
+            "start": 1215,
+            "end": 1223,
+            "tag": "ENTE_TERRITORIO",
+            "text": "Zaragoza"
+        },
+        {
+            "start": 1226,
+            "end": 1243,
+            "tag": "FECHA_PUBLICACION",
+            "text": "7 de mayo de 2012"
+        }
+    ]
+}
