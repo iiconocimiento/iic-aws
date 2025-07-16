@@ -1,0 +1,14 @@
+[
+    {
+        "label": "sintomas",
+        "score": 0.9478738164901733
+    },
+    {
+        "label": "tratamiento",
+        "score": 0.8002656579017639
+    },
+    {
+        "label": "seguimiento",
+        "score": 0.867284345626831
+    }
+]

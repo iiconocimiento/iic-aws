@@ -13,6 +13,13 @@ RigoChat-7b is the second version of RigoChat, a family of Large Language Models
 
 This model has no specific use case and can be applied to a wide range of tasks. Indeed, it offers an improvement for generalist tasks in Spanish, particularly in RAG (Retriever Augmented Generation) systems with Spanish databases, as its training focused on resolving questions about contexts to prevent hallucinations and ensure safe responses.
 
+### Rigoberta-Clinical
+
+RigoBERTa Clinical Classification is a fine-tunable state-of-the-art clinical encoder language model for Spanish.
+
+#### Classification
+This product allows you to fine-tune the model using your own clinical data for text classification tasks, enabling tailored performance for your specific use case. 
+
 ### ERAS - Easy Reading Analyzer for Spanish
 
 ERAS is an easy reading analyzer for Spanish texts. With four global indexes and thirty subindexes, it evaluates text linguistic features and allows to easily detect readability improvement areas.

@@ -1,0 +1,14 @@
+[
+    {
+        "text": "El paciente presenta disnea progresiva y fatiga desde hace una semana.",
+        "label": "sintomas"
+    },
+    {
+        "text": "Se indicó iniciar tratamiento con metformina por diagnóstico reciente de diabetes tipo 2.",
+        "label": "tratamiento"
+    },
+    {
+        "text": "No se evidencian signos de infección en la herida quirúrgica tras 10 días de la operación.",
+        "label": "seguimiento"
+    }
+]
